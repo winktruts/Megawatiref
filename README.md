@@ -33,7 +33,7 @@ nano proxy.txt
 
 5. Run Program
 ```
-node Megawatiref.js
+node megawatiref.js
 ```
 
 ## Configuration
